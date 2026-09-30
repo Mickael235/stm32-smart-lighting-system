@@ -1,0 +1,22 @@
+# STM32CubeIDE generated files
+Debug/
+Release/
+
+# Build files
+*.o
+*.d
+*.elf
+*.bin
+*.hex
+*.map
+*.list
+*.su
+
+# IDE / OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak
+*.swpCommande ECHO activ‚e.
